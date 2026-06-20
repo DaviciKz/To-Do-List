@@ -107,6 +107,6 @@ ul li span {
 }
 
 ul li span:hover {
-    background: #edeef0;       /* Warna abu-abu background saat disentuh kursor */
-    color: #ff4d4d;            /* Opsional: mengubah huruf 'x' jadi merah pas di-hover */
+    background: #edeef0;       
+    color: #ff4d4d;           
 }
